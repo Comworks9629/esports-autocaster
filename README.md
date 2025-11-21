@@ -1,5 +1,6 @@
 # esports-autocaster
 For Tournament Organizers & Streamers.
+
 ゲームのスコア・ラウンド・キル・クラッチなどの状態を JSON で取得し、
 Advanced Scene Switcher（ASS） と OBS を自動制御するシステムです。
 
